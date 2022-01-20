@@ -1,6 +1,6 @@
 # Jogo da Velha
 
-## Neste projeto, vamos construir um jogo da velha, utilizando somente 
+## Neste projeto, vamos construir um jogo da velha, utilizando somente:
 - HTML para estruturar nosso site
 - CSS para estilizar e dar vida a ele
 - Javascript para criarmos toda suas interações
