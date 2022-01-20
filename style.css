@@ -1,0 +1,60 @@
+/* *
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,300;0,400;1,100;1,300&family=Roboto:ital,wght@0,500;0,700;1,400&display=swap');
+
+body{
+text-align: center;
+background-image: url(img/papelDeParede.png);
+font-family: 'Rubik Beastly', cursive;
+/* font-size: 80px; */
+}
+
+h1{
+    color:rgb(235, 23, 164);
+    font-size: 60px;
+      
+}
+
+label{
+    color: wheat;
+}
+.quadrado{
+    text-align: center;
+    width: 50px;
+    background: #eee;
+    display: inline-block; 
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: #eee;
+    border-radius:  12px;
+
+
+}
+
+.jogador .vencendor {
+
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 10px;
+    width: 200px;
+    height: 50px;
+    background: #eee;
+    cursor: pointer;
+    border-radius: 12px;
+    background: yellow;
+    font-size: 12px;
+    color: black;
+    font-size: 24px;
+
+}
