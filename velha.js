@@ -28,12 +28,7 @@ function escolherQuadrado(id){
          jogador = 'X'
      }
 
-        // jogador = document.getElementsById('yourImgId');
-        
-        // if(yourImg && yourImg.style) {
-        //     yourImg.style.height = '100px';
-        //     yourImg.style.width = '200px';
-        // }
+       
 
     
 
